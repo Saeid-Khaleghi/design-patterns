@@ -1,0 +1,13 @@
+{
+    "name": "Memento",
+    "alias": "memento",
+    "description": "",
+    "keywords": [],
+    "priority": 0,
+    "providers": [
+        "Modules\\Memento\\Providers\\MementoServiceProvider"
+    ],
+    "aliases": {},
+    "files": [],
+    "requires": []
+}

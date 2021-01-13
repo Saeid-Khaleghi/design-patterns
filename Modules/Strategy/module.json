@@ -1,0 +1,13 @@
+{
+    "name": "Strategy",
+    "alias": "strategy",
+    "description": "",
+    "keywords": [],
+    "priority": 0,
+    "providers": [
+        "Modules\\Strategy\\Providers\\StrategyServiceProvider"
+    ],
+    "aliases": {},
+    "files": [],
+    "requires": []
+}

@@ -1,0 +1,13 @@
+{
+    "name": "TemplateMethod",
+    "alias": "templatemethod",
+    "description": "",
+    "keywords": [],
+    "priority": 0,
+    "providers": [
+        "Modules\\TemplateMethod\\Providers\\TemplateMethodServiceProvider"
+    ],
+    "aliases": {},
+    "files": [],
+    "requires": []
+}

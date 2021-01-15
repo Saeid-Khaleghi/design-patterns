@@ -1,0 +1,13 @@
+{
+    "name": "Observer",
+    "alias": "observer",
+    "description": "",
+    "keywords": [],
+    "priority": 0,
+    "providers": [
+        "Modules\\Observer\\Providers\\ObserverServiceProvider"
+    ],
+    "aliases": {},
+    "files": [],
+    "requires": []
+}

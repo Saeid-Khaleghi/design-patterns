@@ -4,5 +4,6 @@
     "State": true,
     "Strategy": true,
     "TemplateMethod": true,
-    "Command": true
+    "Command": true,
+    "Observer": true
 }

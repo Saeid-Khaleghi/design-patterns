@@ -1,0 +1,13 @@
+{
+    "name": "Command",
+    "alias": "command",
+    "description": "",
+    "keywords": [],
+    "priority": 0,
+    "providers": [
+        "Modules\\Command\\Providers\\CommandServiceProvider"
+    ],
+    "aliases": {},
+    "files": [],
+    "requires": []
+}

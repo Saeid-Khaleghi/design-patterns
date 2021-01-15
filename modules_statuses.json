@@ -3,5 +3,6 @@
     "Memento": true,
     "State": true,
     "Strategy": true,
-    "TemplateMethod": true
+    "TemplateMethod": true,
+    "Command": true
 }

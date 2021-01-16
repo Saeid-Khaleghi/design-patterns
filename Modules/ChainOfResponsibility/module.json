@@ -1,0 +1,13 @@
+{
+    "name": "ChainOfResponsibility",
+    "alias": "chainofresponsibility",
+    "description": "",
+    "keywords": [],
+    "priority": 0,
+    "providers": [
+        "Modules\\ChainOfResponsibility\\Providers\\ChainOfResponsibilityServiceProvider"
+    ],
+    "aliases": {},
+    "files": [],
+    "requires": []
+}

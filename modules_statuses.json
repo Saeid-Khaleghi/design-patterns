@@ -1,10 +1,10 @@
 {
-    "Momento": true,
     "Memento": true,
     "State": true,
     "Strategy": true,
     "TemplateMethod": true,
     "Command": true,
     "Observer": true,
-    "ChainOfResponsibility": true
+    "ChainOfResponsibility": true,
+    "Visitor": true
 }

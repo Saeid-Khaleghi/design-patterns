@@ -5,6 +5,7 @@
     "TemplateMethod": true,
     "Command": true,
     "Observer": true,
+    "Mediator": true,
     "ChainOfResponsibility": true,
     "Visitor": true
 }

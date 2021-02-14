@@ -1,0 +1,13 @@
+{
+    "name": "Mediator",
+    "alias": "mediator",
+    "description": "",
+    "keywords": [],
+    "priority": 0,
+    "providers": [
+        "Modules\\Mediator\\Providers\\MediatorServiceProvider"
+    ],
+    "aliases": {},
+    "files": [],
+    "requires": []
+}

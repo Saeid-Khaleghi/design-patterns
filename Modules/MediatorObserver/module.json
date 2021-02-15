@@ -1,0 +1,13 @@
+{
+    "name": "MediatorObserver",
+    "alias": "mediatorobserver",
+    "description": "",
+    "keywords": [],
+    "priority": 0,
+    "providers": [
+        "Modules\\MediatorObserver\\Providers\\MediatorObserverServiceProvider"
+    ],
+    "aliases": {},
+    "files": [],
+    "requires": []
+}

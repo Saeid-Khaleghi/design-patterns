@@ -8,5 +8,6 @@
     "Mediator": true,
     "ChainOfResponsibility": true,
     "Visitor": true,
-    "MediatorObserver": true
+    "MediatorObserver": true,
+    "Composite": true
 }

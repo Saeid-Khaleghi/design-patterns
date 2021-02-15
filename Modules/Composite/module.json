@@ -1,0 +1,13 @@
+{
+    "name": "Composite",
+    "alias": "composite",
+    "description": "",
+    "keywords": [],
+    "priority": 0,
+    "providers": [
+        "Modules\\Composite\\Providers\\CompositeServiceProvider"
+    ],
+    "aliases": {},
+    "files": [],
+    "requires": []
+}

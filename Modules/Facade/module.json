@@ -1,0 +1,13 @@
+{
+    "name": "Facade",
+    "alias": "facade",
+    "description": "",
+    "keywords": [],
+    "priority": 0,
+    "providers": [
+        "Modules\\Facade\\Providers\\FacadeServiceProvider"
+    ],
+    "aliases": {},
+    "files": [],
+    "requires": []
+}

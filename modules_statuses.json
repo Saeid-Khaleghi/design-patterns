@@ -11,5 +11,6 @@
     "MediatorObserver": true,
     "Composite": true,
     "Adapter": true,
-    "Decorator": true
+    "Decorator": true,
+    "Facade": true
 }

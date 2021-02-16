@@ -9,5 +9,6 @@
     "ChainOfResponsibility": true,
     "Visitor": true,
     "MediatorObserver": true,
-    "Composite": true
+    "Composite": true,
+    "Adapter": true
 }

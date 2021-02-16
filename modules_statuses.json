@@ -10,5 +10,6 @@
     "Visitor": true,
     "MediatorObserver": true,
     "Composite": true,
-    "Adapter": true
+    "Adapter": true,
+    "Decorator": true
 }

@@ -1,0 +1,13 @@
+{
+    "name": "Decorator",
+    "alias": "decorator",
+    "description": "",
+    "keywords": [],
+    "priority": 0,
+    "providers": [
+        "Modules\\Decorator\\Providers\\DecoratorServiceProvider"
+    ],
+    "aliases": {},
+    "files": [],
+    "requires": []
+}

@@ -1,0 +1,13 @@
+{
+    "name": "Flyweight",
+    "alias": "flyweight",
+    "description": "",
+    "keywords": [],
+    "priority": 0,
+    "providers": [
+        "Modules\\Flyweight\\Providers\\FlyweightServiceProvider"
+    ],
+    "aliases": {},
+    "files": [],
+    "requires": []
+}

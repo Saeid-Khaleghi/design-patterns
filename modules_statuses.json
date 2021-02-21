@@ -12,5 +12,6 @@
     "Composite": true,
     "Adapter": true,
     "Decorator": true,
-    "Facade": true
+    "Facade": true,
+    "Flyweight": true
 }

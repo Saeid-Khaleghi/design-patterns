@@ -1,0 +1,13 @@
+{
+    "name": "Bridge",
+    "alias": "bridge",
+    "description": "",
+    "keywords": [],
+    "priority": 0,
+    "providers": [
+        "Modules\\Bridge\\Providers\\BridgeServiceProvider"
+    ],
+    "aliases": {},
+    "files": [],
+    "requires": []
+}

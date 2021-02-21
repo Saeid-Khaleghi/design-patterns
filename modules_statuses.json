@@ -13,5 +13,6 @@
     "Adapter": true,
     "Decorator": true,
     "Facade": true,
-    "Flyweight": true
+    "Flyweight": true,
+    "Bridge": true
 }

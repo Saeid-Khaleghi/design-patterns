@@ -14,5 +14,6 @@
     "Decorator": true,
     "Facade": true,
     "Flyweight": true,
-    "Bridge": true
+    "Bridge": true,
+    "Proxy": true
 }

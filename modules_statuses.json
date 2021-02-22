@@ -15,5 +15,7 @@
     "Facade": true,
     "Flyweight": true,
     "Bridge": true,
-    "Proxy": true
+    "Proxy": true,
+    "Singelton": true,
+    "Singleton": true
 }

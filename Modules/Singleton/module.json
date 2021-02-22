@@ -1,0 +1,13 @@
+{
+    "name": "Singleton",
+    "alias": "singleton",
+    "description": "",
+    "keywords": [],
+    "priority": 0,
+    "providers": [
+        "Modules\\Singleton\\Providers\\SingletonServiceProvider"
+    ],
+    "aliases": {},
+    "files": [],
+    "requires": []
+}
